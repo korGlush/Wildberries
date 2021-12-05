@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Dilivery-Food-main"
+		},
+		{
+			"path": "c:\\Users\\Студент 401-6\\Desktop\\vue-intensive"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Dilivery-Food-main"
+	}
+}
