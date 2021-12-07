@@ -34,8 +34,9 @@
     transition: all .3s;
 }
 .menu_button:hover {
-    color: black;
+    color: rgb(50, 241, 50);
     filter: drop-shadow(0 0 20px black);
+    
 }
 .cart{
     padding-top: 15px;
@@ -58,7 +59,7 @@
     transition: all .3s;
 }
 .button--primary:hover {
-    background-color: rgb(0, 36, 240);
+    background-color: rgb(231, 119, 15);
 }
 .best{
     padding: 5px 12px;
@@ -252,7 +253,7 @@
 }
 
 .button_view:hover {
-    background-color: rgb(0, 36, 240);
+    background-color: rgb(231, 119, 15);
 }
 
 .micro_women{
